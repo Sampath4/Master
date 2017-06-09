@@ -1,0 +1,1 @@
+Welcome, <s:property value="Username"/>

@@ -1,0 +1,9 @@
+<taglib>
+<tldversion>1.0</tldversion>
+<jspversion>2.0</jspversion>
+<shortname>dt</shortname>
+<tag>
+<name>date</name>
+<tagclass>JSP.DateHandler</tagclass>
+</tag>
+</taglib>

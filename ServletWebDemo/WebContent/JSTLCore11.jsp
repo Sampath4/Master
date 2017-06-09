@@ -1,0 +1,4 @@
+<%@taglib uri ="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<c:set var="num1" value="${10}"/>
+<c:set var="num2" value="${20}"/>
+Sum is <c:out value= "${num1+num2 }"/>
