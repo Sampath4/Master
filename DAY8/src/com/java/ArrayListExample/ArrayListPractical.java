@@ -46,5 +46,5 @@ public class ArrayListPractical {
 		}
 
 	}
-// 	Changes are done
+// 	Changes are done by SAMPATH
 }
